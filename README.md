@@ -5,11 +5,11 @@
 
 
 
-- 🔭 I’m currently working on **Hospital Automation**
+- 🔭 I’m currently working on **Odoo ERP Development**
 
-- 🌱 I’m currently learning **Python, Django, Odoo, Openmrs, Bahmni,**
+- 🌱 I’m currently learning **Python, PostgreSQL, XML, and Odoo Framework**
 
-- 👯 I’m looking to collaborate on **MIS Automation Project**
+- 👯 I’m looking to collaborate on **MIS Automation, Odoo ERP Development, and Business Process Automation Projects.**
 
 - 💬 Ask me about **odoo, python,**
 
